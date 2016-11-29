@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "978024069871",
+    "firebase_url": "https://yourbeers.firebaseio.com",
+    "project_id": "yourbeers",
+    "storage_bucket": "yourbeers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978024069871:android:35c80e01c7c65c00",
+        "android_client_info": {
+          "package_name": "cl.roothigh.yourbeers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978024069871-q7rgqhdmpn227bmj7luq372etjronml3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.roothigh.yourbeers",
+            "certificate_hash": "2F27EB96C49E6E630AF9853BC2E21DB548F7A6D6"
+          }
+        },
+        {
+          "client_id": "978024069871-fdfkbt583aou10qcr3vjg4ambirp062b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChPffhpXQichOEZNRO9ehNLJtg2DdHbWg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978024069871-fdfkbt583aou10qcr3vjg4ambirp062b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
